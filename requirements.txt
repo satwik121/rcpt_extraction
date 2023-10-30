@@ -1,0 +1,9 @@
+streamlit
+azure-ai-formrecognizer
+mysql-connector-python
+pandas
+openai
+
+
+
+
